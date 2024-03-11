@@ -1,0 +1,28 @@
+header{
+    z-index: 100;
+}
+
+body{
+font-family:Verdana,  sans-serif ;
+}
+#br{
+    background-color: black;
+    
+}
+.br-text{
+    letter-spacing: 3px;
+}
+.card{
+    margin-bottom: 15px;
+}
+.btn-contact{
+    background-color: rgb(223, 220, 220);
+    border-radius: 0;
+}
+.btn-contact:hover{
+    background-color: rgb(88, 77, 77);
+
+}
+#about-section img{
+    filter: grayscale(70%);
+}
